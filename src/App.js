@@ -4,6 +4,7 @@ import "./App.css";
 
 class App extends Component {
   constructor() {
+    console.log("constructor");
     super();
 
     this.state = {
@@ -11,25 +12,46 @@ class App extends Component {
     };
   }
 
-  componentWillMount() {
+  componentDidMount() {
+    console.log("componentDidMount");
     fetch("https://jsonplaceholder.typicode.com/users")
       .then((response) => response.json()) //pass each response from json to users variable
-      .then((users) =>
-        this.setState(
-          () => {
-            return { monsters: users };
-          },
-          () => {
-            console.log(this.state);
-          }
-        )
+      .then(
+        (
+          users //pass each response to setState of monsters aeeay
+        ) =>
+          this.setState(
+            () => {
+              return { monsters: users }; //return each object to array
+            },
+            () => {
+              console.log(this.state); //verify in console
+            }
+          )
       );
   }
 
   //iterate through the array using map function, then render and return the name of each
   render() {
+    console.log("render");
     return (
       <div className="App">
+        <input
+          className="search-box"
+          type="search"
+          placeholder="search monsters"
+          onChange={(event) => {
+            console.log(event.target.value);
+            const searchString = event.target.value.toLocaleLowerCase();
+            const filteredMonsters = this.state.monsters.filter((monster) => {
+              return monster.name.toLocaleLowerCase().includes(searchString);
+            });
+
+            this.setState(() => {
+              return { monsters: filteredMonsters };
+            });
+          }}
+        />
         {this.state.monsters.map((monster) => {
           return (
             <div key={monster.id}>
