@@ -46,7 +46,6 @@ class App extends Component {
     });
   };
 
-  //iterate through the array using map function, then render and return the name of each
   render() {
     console.log("render");
 
