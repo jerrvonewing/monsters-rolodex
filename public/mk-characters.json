@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Sub Zero",
+    "powers": "Ice Manipulation"
+  },
+  {
+    "id": 2,
+    "name": "Scorpion",
+    "powers": "Fire Manipulation"
+  },
+  {
+    "id": 3,
+    "name": "Johnny Cage",
+    "powers": "Green Energy"
+  },
+  {
+    "id": 4,
+    "name": "Noob Saibot",
+    "powers": "Shadow Manipulation"
+  },
+  {
+    "id": 5,
+    "name": "Ermac",
+    "powers": "Telekinesis"
+  },
+  {
+    "id": 6,
+    "name": "Reptile",
+    "powers": "Acid Manipulation"
+  },
+  {
+    "id": 7,
+    "name": "Sindel",
+    "powers": "Superhuman Physiology"
+  },
+  {
+    "id": 8,
+    "name": "Sonya Blade",
+    "powers": "Military Martial Arts"
+  },
+  {
+    "id": 9,
+    "name": "Jax Briggs",
+    "powers": "Super Strength"
+  },
+  {
+    "id": 10,
+    "name": "Rain",
+    "powers": "Water Manipulation"
+  }
+]

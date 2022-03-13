@@ -1,9 +1,46 @@
-import { Component } from "react";
+//import { Component } from "react";
+import { useState, useEffect } from "react";
+
 import logo from "./logo.svg";
 import CardList from "./components/card-list/card-list.component";
 import SearchBox from "./components/search-box/search-box.component";
 import "./App.css";
 
+const App = () => {
+  const [searchField, setSearchField] = useState("");
+  const [monsters, setMonsters] = useState([]);
+
+  useEffect(() => {
+    //   fetch("https://jsonplaceholder.typicode.com/users")
+    fetch("http://localhost:3000/mk-characters.json")
+      .then((response) => response.json()) //pass each response from json to users variable
+      .then((users) => setMonsters(users));
+  }, []);
+
+  const onSearchChange = (event) => {
+    console.log(event.target.value);
+    const searchFieldString = event.target.value.toLocaleLowerCase();
+    setSearchField(searchFieldString);
+  };
+
+  const filteredMonsters = monsters.filter((monster) => {
+    return monster.name.toLocaleLowerCase().includes(searchField);
+  });
+
+  return (
+    <div className="App">
+      <h1 className="App-title">Choose Your Fighter!</h1>
+      <SearchBox
+        className="search-box"
+        onChangeHandler={onSearchChange}
+        placeholder="Search Fighters"
+      />
+      <CardList monsters={filteredMonsters} />
+    </div>
+  );
+};
+
+/*
 class App extends Component {
   constructor() {
     console.log("constructor");
@@ -69,5 +106,5 @@ class App extends Component {
     );
   }
 }
-
+*/
 export default App;
