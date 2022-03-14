@@ -1,14 +1,13 @@
-import { Component } from "react";
 import "./card.styles.css";
-const Card = ({ monsters }) => (
-  <div className="card-container" key={monsters.id}>
+
+const Card = ({ monster }) => (
+  <div className="card-container" key={monster.id}>
     <img
-      alt={`monster ${monsters.name}`}
-      src={`http://localhost:3000/${monsters.id}.webp`}
+      alt={`monster ${monster.name}`}
+      src={`http://localhost:3000/img/${monster.id}.png`}
     />
-    <h2>{monsters.name}</h2>
-    <p>{monsters.powers}</p>
+    <h2>{monster.name}</h2>
+    <p>{monster.bio}</p>
   </div>
 );
-
 export default Card;

@@ -1,52 +1,167 @@
 [
   {
     "id": 1,
-    "name": "Sub Zero",
-    "powers": "Ice Manipulation"
+    "name": "Alien",
+    "bio": "The Xenomorphs had descended on Outworld long ago, but the dormant eggs they left behind were only recently found. The leader of the Tarkatan patrol had picked up one of the leathery orbs, only to have it burst open and its occupant latch itself to his face. Later, after the facehugger had fallen off, the Alien progeny burst from the unfortunate Tarkatan's chest, bearing characteristics of both Xenomorph and host. It eluded the rest of the Tarkatan soldiers and eventually killed them. The creature now roams Outworld, looking for more hosts. Its amazing strength and animal fury make Alien almost unstoppable."
   },
   {
     "id": 2,
-    "name": "Scorpion",
-    "powers": "Fire Manipulation"
+    "name": "Bo' Rai Cho",
+    "bio": "Bo' Rai Cho, Master of Kombat, is Outworld-born but sympathetic to Earthrealm. Thus he has spent his long life training Earthrealm warriors for their tournaments with Outworld. Bo's past students include the Shaolin monks Kung Lao and Liu Kang, the eventual champion of Mortal Kombat, and savior of Earthrealm. Recently, as the Outworld Civil War raged and a dangerous new weapon was revealed, Bo' Rai Cho sought to consult Lord Raiden to discuss strategy. So far his attempts to find his old friend have been unsuccesful."
   },
   {
     "id": 3,
-    "name": "Johnny Cage",
-    "powers": "Green Energy"
+    "name": "Cassie Cage",
+    "bio": "Cassandra Carlton Cage, the daughter of Johnny Cage and Sonya Blade, has a lot to live up to. Her parents were among the few kombatants to survive the wars against Outworld and Netherrealm, and were instrumental to Earthrealm's victories. Cassie is as strong-willed--and occasionally hotheaded--as her mother; and as quick-witted as her beloved dad, which makes her popular within her Special Forces unit. But these traits hide a seed of self-doubt cultivated by the demanding nature of her commanding officer: Sonya."
   },
   {
     "id": 4,
-    "name": "Noob Saibot",
-    "powers": "Shadow Manipulation"
+    "name": "D'Vorah",
+    "bio": "D'Vorah is of a sentient colonial race called the Kytinn, which populates the island realm of Arnyek. The solitary nature of the Kytinn meant a common defense of their realm was nonexistent; thus it was conquered and merged with Outworld by Shao Kahn. D'Vorah's loyalty and insightfulness, unusual traits for a Kytinn, led to her quick political rise. Soon she found herself 'among the emperor's closest advisors. She serves the current ruler of Outworld, Kotal Kahn, as our story opens."
   },
   {
     "id": 5,
     "name": "Ermac",
-    "powers": "Telekinesis"
+    "bio": "Ermac was created with dark magicks by the former emperor of Outworld, Shao Kahn. He is a collection of souls, those of the thousands of warriors vanquished in Shao Kahn's conquest of Edenia. After Shao Kahn's death, Ermac remained loyal to subsequent Outworld emperors: first Shao Kahn's chosen successor, Mileena, then the usurper, Kotal Kahn. He is now a key component in the emperor's efforts to quell Mileena's rebellion."
   },
   {
     "id": 6,
-    "name": "Reptile",
-    "powers": "Acid Manipulation"
+    "name": "Erron Black",
+    "bio": "Erron Black's exact origins are unknown. Born on Earth, he somehow found himself in Outworld. There he spent years wandering its vast territories, selling his amazing weaponry skills to local warlords. Now in the employ of the emperor, Kotal Kahn, Black shows no inclination to return to Earthrealm--or aid them in their present struggles."
   },
   {
     "id": 7,
-    "name": "Sindel",
-    "powers": "Superhuman Physiology"
+    "name": "Ferra/Torr",
+    "bio": "The dual being known as Ferra/Torr is mysterious even to their closest allies. Ifs rumored that Torr and Ferra were Outworld citizens, captured and permanently tethered to each other by the evil sorcerer Shang Tsung in the bowels of his Flesh Pits. They're more likely members of a forgotten symbiotic race, in which the rider bonds with a mount. The rider, Ferra, serves as the de facto brains of the duo, while the hulking Torr is the muscle. It's possible they communicate with each other telepathically, or that Ferra can actually understand the booming grunts that are Torr's usual vocalizations. Found roaming the Tarkatan Wastes by Imperial troops, Ferra/Torr was trained/coerced into serving as Kotal Kahn's personal bodyguard."
   },
   {
     "id": 8,
-    "name": "Sonya Blade",
-    "powers": "Military Martial Arts"
+    "name": "Goro",
+    "bio": "Prince Goro leads the Shokan, a four-armed race of half-dragons subjugated ages ago by Shao Kahn. Goro was Mortal Kombat champion nine tournaments in a row. He was defeated by Liu Kang in the tenth, ending Outworld's hopes of assimilating Earthrealm. The Shokan served the Outworld throne until Shao Kahn's death. They refused to take sides in the resulting civil war and were thus outcast. Few believe, however, that they have seen the last of Goro."
   },
   {
     "id": 9,
-    "name": "Jax Briggs",
-    "powers": "Super Strength"
+    "name": "Jacqui Briggs",
+    "bio": "Like her father, Jax, Specialist Jacqueline Sonya (Jacqui) Briggs has dedicated her life to soldiering, and excels at it. Unlike Jax, Jacqui does not have her father's approval regarding her decision to join a secret Special Forces offshoot. After Jax's horrific experiences as a revenant in the service of Quan Chi, he wants to protect his daughter from a similar fate. Jacqui loves her father but yearns to help Earthrealm in its fight against hostile realms. A part of her Wants revenge on those who hurt Jax."
   },
   {
     "id": 10,
-    "name": "Rain",
-    "powers": "Water Manipulation"
+    "name": "Jason",
+    "bio": "Death and revenge make up the very core of Jason Voorhees' being. He died as a young boy. His mother killed out of grief and rage. When she was murdered, Jason returned and avenged her. Many times since, the living have tried to send him back to the realm of the dead. He's been stabbed, drowned, electrocuted, hurled into space But Jason cannot be killed. Cannot be stopped"
+  },
+  {
+    "id": 11,
+    "name": "Jax Briggs",
+    "bio": "Thirty years ago, Jax was the C.O. of a secret Special Forces unit that got caught up in the Mortal Kombat tournament and the subsequent invasion of Earthrealm by Shao Kahn and Outworld. Although Earthrealm was victorious, Jax died in the fighting. Jax's soul was confiscated by the Netherrealm sorcerer Quan Chi. Jax was recreated as a vengeful undead warrior and forced to fight against his home world when Netherrealm attacked Earthrealm. Soon after Netherrealm's defeat, Jax was freed of Quan Chi's influence and returned to life. He decided not to reactivate Its military status, however, due to the trauma he suffered. Though he reluctantly serves as a consultant as a favor to his best friend, General Sonya Blade, Jax prefers the quiet life with his family. His stress has been increased in recent years due to his daughter Jacqui's enlistment in the Special Forces--and her • membership in a secret team not unlike the one he himself led..."
+  },
+  {
+    "id": 12,
+    "name": "Johnny Cage",
+    "bio": "Johnny Cage, famous Hollywood action hero; joined the first Mortal Kombat tournament for the publicity. As the Thunder God, Raiden, intoned at the time about the arrogant, loquacious Cage, He is a hero... though he might not yet know it. Raiden was correct, of course: Johnny's martial arts skills were not special effects--and were pivotal in Earthrealm's victory. Johnny became a leader alongside Sonya Blade against Outworld and later Netherrealm. Sonya's initial dislike of Johnny turned to friendship and eventually to marriage. After their daughter, Cassie, was born, however, Johnny and Sonya split up. Now older and more somber, the 50-something Johnny is a consultant with a secret Special Forces unit under Blade's command. He tolerates the occasional run-in with his ex-wife mostly to.spend time with his beloved Cassie--the group's squad leader."
+  },
+  {
+    "id": 13,
+    "name": "Kano",
+    "bio": "Kano is a member of the Black Dragon, a group of international arms dealers. Sonya, fax and the Special Forces have been trying to shut them down for decades. Though he's from Earthrealm (Australia), Kano usually sides with his home realm's enemies. In the past he provided high tech weapons for Shao Kahn's Outworld armies, and later to Shinnok and Quan Chi of the Netherrealm. After Shinnok's defeat, Kano returned to Outworld, keeping a low profile but making a tidy profit running guns from Earth to fuel local Outworld skirmishes. When Mileena was removed as Outworld's emperor and retaliated with civil war, Kano seized the opportunity. He now serves Kotal Kahn as technical advisor and weapons supplier-- while secretly aiding Mileena's rebels in the same capacity."
+  },
+  {
+    "id": 14,
+    "name": "Kenshi",
+    "bio": "The swordsman Takahashi Kenshi spent his early adulthood searching the world for worthy opponents. When the sorcerer Shang Tsung duped him into retrieving the enchanted sword Sento from the Well of Souls, the result left Kenshi sightless. Humbled but with a new sense of purpose, Kenshi vowed to rid the realms of despicable creatures like Shang. He served Eartgrealm admirably in its conflict with Netherrealm. In his post-war travels he met and fell in love with a young Thai-American woman. Eventually Kenshi's wanderlust returned and he departed. Years later he learned the woman had been murdered-- leaving their eight-year-old son in Kenshi's care. The boy's mother's murder led Kenshi to entrust his son to Hanzo Hasashi, the former ScorpiOn, to raise as a warrior. Kenshi promised Hanzo he would return one day to reclaim • Takeda. Together father and son would hunt down the. toy's mother's murderer. Meanwhile Kenshi continues his itinerant ways, occasionally helping out his friend General Blade as a consultant to the Special Forces."
+  },
+  {
+    "id": 15,
+    "name": "Kitana",
+    "bio": "A princess of the realm of Edenia, Kitana was raised as the daughter of Shao Kahn after the Outworld emperor conquered Edenia and forced Kitana's mother, Sindel, to become his queen. Kitana was one of Shao Kahn's top assassins, but was never as bloodthirsty as he preferred. When Kitana learned that Shao Kahn was creating evil clones from her DNA in order to replace her, Kitana rebelled. She fought on the side of Earthrealm against OutWorld's invasion and died defending it. Her soul was collected by Quan Chi, who created an evil revenant version of Kitana. She now serves Quan Chi and the Netherrealm."
+  },
+  {
+    "id": 16,
+    "name": "Kotal Kahn",
+    "bio": "Kotal was a young boy in the warrior realm of Osh-Tekk when it was conquered and merged with Outworld by Shao Kahn. He grew up admiring the Outworld emperor, but kept hidden from him a secret portal to Earthrealm his people had established in their distant past. Kotal's magical appearances and demonstrations of great power in Earthrealm led its inhabitants to declare him a god, whom they called Buluc. After Shao Kahn was killed in the war With Earthrealm, Kotal served his heir, Mileena. But her instability eventually led him to overthrow her and assume the emperorship. Despite his current detente with longtime enemy Earthrealm, Kotal Kahn is still embroiled in konflict, as Mileena attempts to regain her throne through civil war."
+  },
+  {
+    "id": 17,
+    "name": "Kung Jin",
+    "bio": "Kung Jin is the younger cousin o the Earthrealm hero Kung Lao. When Kung Lao was killed in the war against Outworld, Kung's family's fortunes took a turn for the worse. He journeyed to the U.S. and became a thief. An encounter with Raiden changed Jin's outlook, and he joined the Shaolin Monks. Now a member of Johnny Cage's secret Special Forces offshoot, Jin's streetwise past gives him extra insight into the minds and motivations of those who would harm Earthrealm."
+  },
+  {
+    "id": 18,
+    "name": "Kung Lao",
+    "bio": "Kung Lao trained with the Shaolin Monks to become one of Earthrealm's most skilled defenders. But his immaturity and impetuousness prevented him from being taken as seriously as his friend Liu Kang. Despite Lao's shortcomings, he was able to defeat both Shang Tsung and Quan Chi in Mortal Kombat. But his life was cut short when Shao Kahn brutally murdered him. In death, Kung Kenn I al MI tell Lao's soul was collected by Quan Chi, who used it to create an evil revenant version of Kung Lao. He now serves Quan Chi and the Netherrealm."
+  },
+  {
+    "id": 19,
+    "name": "Leatherface",
+    "bio": "The Sawyer clan of Newt, Texas was unusual for sure. And they weren't always the nicest. So it came as no surprise when Leatherface's brothers told him he couldn't come home again until he brought back the best chili meat he could find. But how would Leatherface know it was the best unless he tried everything? He took his chainsaw and his favorite masks and headed off. Leatherface ended up in a lot of strange places. Not long ago he walked through a glowing, spinning purple doorway and found himself in a crazy city called Zonkera or something. There was now plenty of strange meat to try. So far, Kytinn was his favorite."
+  },
+  {
+    "id": 20,
+    "name": "Liu Kang",
+    "bio": "Liu Kang was Earthrealm's champion, winner of two straight Mortal Kombat tournaments. Under Raiden's tutelage, Liu Kang defeated both Shang Tsung and Shao Kahn, becoming a legend throughout the realms. But when Shao Kahn's Outworld forces invaded Earthrealm, Liu Kang split with Raiden over how to respond. During a disagreement between them, Liu Karig was accidentally killed. His soul was collected by Quan Chi, who used it to create an evil revenant version of Liu Kang. He now serves Quan Chi and the Netherrealm."
+  },
+  {
+    "id": 21,
+    "name": "Mileena",
+    "bio": "Perceiving a lack of loyalty in his adopted daughter, Kitana, Shao Kahn ordered Shang Tsung to create a replacement, a daughter worthy of succeeding his rule. Shang Tsung fulfilled Shao Kahn's order by fusing Tarkatan DNA with genetic material stolen from Kitana to create a cloned hybrid: Mileena. Mileena is the best of both: bloodthirsty and vicious as a Tarkatan but possessing the Martial artistry and expertise of an Edenian. When Shao Kahn was killed by Raiden, Mileena took over as the ruler of Outworld. But when she refused to align Outworld with Earthrealm against Netherrealm attack, she was deposed. She now leads a rebellion against the usurper Kotal KAhn's regime."
+  },
+  {
+    "id": 22,
+    "name": "Predator",
+    "bio": "The Predator is not here to rule us. He does not wish to destroy the realms. He and others of his alien race merely fight--and kill--for sport and honor. There is much kombat in Earthrealm. Shan Kahn and then Shinnok thought themselves konquerers. They were defeated. The Predator will not be. The humans, Outworlders and Netherrealm demons will fall to his superior weapons, tactics and strength. Their skins will make fine trophies."
+  },
+  {
+    "id": 23,
+    "name": "Quan Chi",
+    "bio": "Originally a Netherrealm demon, Quan Chi evolved into one of the most powerful sorcerers in the realms. He serves the High Lord Shinnok, who was imprisoned in the Netherrealm by his fellow Elder Gods. Twenty-five years ago, Quan Chi helped Shinnok escape his hellish prison. Together they waged war on an Earthrealm weakened by its conflict with Outworld. When Shinnok was defeated, Quan Chi was driven underground. He continues to manipulate events from parts unknown."
+  },
+  {
+    "id": 24,
+    "name": "Raiden",
+    "bio": "Raiden, God of Thunder, is the Protector of Earthrealm. He and the Elder Gods defeated Shinnok millennia ago when the latter sought dominion over the realms. More recently, Raiden thwarted Outworld's attempts to merge Earthrealm, first through the Mortal Kombat tournaments, then via invasion. Victory came at great cost, however, as many of Raiden's closest allies were killed in the battle. Raiden's strength was further tested when an escaped Shinnok led a Netherrealm assault on an Earthrealm weakened by war. Ultimately, Raiden imprisoned Shinnok again--this time in Shinnok's own Amulet. But rumors have reached Raiden that the Amulet, thought to be secured in an Earthrealm vault for decades, might have been stolen."
+  },
+  {
+    "id": 25,
+    "name": "Reptile",
+    "bio": "Reptile's home realm of Zaterra was conquered and assimilated long ago by the Outworld Emperor Shao Kahn, leaving Reptile the sole survivor. Reptile has since served Outworld's rulers faithfully--biding his time until he can find a way to recreate his Raptor race. Reptile possesses many reptilian traits, which make him a formidable foe."
+  },
+  {
+    "id": 26,
+    "name": "Scorpion",
+    "bio": "Hanzo Hasashi was a member of the Shirai-Ryu assassin clan until they and his family were killed by Sub-Zero of the rival Lin Kuei clan. Hanzo's soul was claimed by the Netherrealm sorcerer Quan Chi, who resurrected him as the revenant Scorpion and gave him the chance to avenge his family's deaths. Full of rage and hellfire, Scorpion fights alongside Quan Chi in Netherrealm's invasion of Earthrealm."
+  },
+  {
+    "id": 27,
+    "name": "Shinnok",
+    "bio": "Millennia ago, a battle raged in Earthrealm between Raiden, God of Thunder and Earthrealm's Protector, and Shinnok, a renegade Elder God who sought to konquer all of reality. Raiden was victorious, and he and Shinnok's fellow Elder Gods imprisoned him in the Netherrealm. Twenty-five years ago, Shinnok escaped his bonds and attacked an Earthrealm weakened from war with Outworld. Raiden and his fellow Earthrealm god Fujin were able to imprison Shinnok in his own Amulet. But there are other forces who seek to possess Shinnok's makeshift prison and use it as a source of power. Forces less than friendly to Earthrealm..."
+  },
+  {
+    "id": 28,
+    "name": "Sonya Blade",
+    "bio": "General Sonya Blade has been through a lot since helping Raiden defeat the Netherrealm and Shinnok 25 years ago, including marriage to action hero Johnny Cage, with whom she had a daughter. But parenting was not Sonya's strong suit. Her commitment to her career and difficulty opening up emotionally led to their split five years ago. Now faced with possible renewed hostilities with Outworld, Sonya must confront her past by working with her estranged family."
+  },
+  {
+    "id": 29,
+    "name": "Sub Zero",
+    "bio": "Kuai Liang and his older brother, Bi-Han, served the Lin Kuei assassin clan faithfully until the first Mortal Kombat tournament. There Bi-Han, codename Sub-Zero, was killed by the demon Scorpion. Kuai Liang assumed the Sub-Zero name and went to Outworld to find his brother's killer. Meanwhile, the leadership of the Lin Kuei embarked on the Cyber Initiative, converting its members to cybernetic ninjas to increase their efficiency and remove their human imperfections. Kuai Liang was captured and converted. Eventually, Raiden and the defenders of Earthrealm restored his soul, and he joined their cause. He was later killed in the Outworld invasion, his soul claimed by the Netherrealm sorcerer Quan Chi. Sub-Zero served the demon realm during its subsequent war with Earthrealm. Returned to humanity by Raiden in the aftermath, Sub-Zero rebuilt the Lin Kuei--this time as a benevolent organization dedicated to the protection of Earthrealm."
+  },
+  {
+    "id": 30,
+    "name": "Takeda",
+    "bio": "Takahashi Takeda is the son of the hero Kenshi and a young Thai-American woman named Suchin, whom Kenshi met during his travels. When Suchin passed away, Kenshi was shocked to learn he had had an eight-year-old son with her. He took Takeda to Hanzo Hasashi, the former Scorpion, to be instructed in the martial arts. Takeda had no contact with his father for many years, until the day he was to leave Hanzo's tutelage. Kenshi revealed that he had left Takeda with Hanzo to protect him from his mother's murderers. Despite this revelation, and subsequent reconciliation with Kenshi, Takeda has abandonment issues yet to overcome--which makes werking with his father in Johnny Cage's Special Forces team a challenge at times."
+  },
+  {
+    "id": 31,
+    "name": "Tanya",
+    "bio": "Like Kitana and Rain, Tanya is an Edenian, a native of a realm konquered by Shao Kahn and merged with Outworld millennia ago. The Edenians have been fighting for independence ever since. Though she's a skilled kombatant, Tanya prefers more subtle means of achieving her goals. Most recently she and Rain have allied with the ousted former Outworld empress, Mileena. Tanya and Rain will help Mileena regain her throne in exchange for the creation of a new Edenia. What will become of Tanya's relationship with Mileena thereafter, none can say..."
+  },
+  {
+    "id": 32,
+    "name": "Tremor",
+    "bio": "Tremor has the powers of an Earth elemental: He can create earthquakes, form stone and lava projectiles and shape the ground to suit him. His current status with Kano's Black Dragon clan of arms dealers is unknown, as a recent mission seems to have created much animosity in Tremor toward both Special Forces and Kano."
+  },
+  {
+    "id": 33,
+    "name": "Triborg",
+    "bio": "Years ago, the Lin Kuei Grandmaster determined that his assassin clan would be more effective by eliminating their human weaknesses. They would adopt cybernetic bodies and technologically enhanced minds. In preparation, the Grandmaster ordered all members to submit to tests, during which their physical and mental data was secretly recorded and stored in an offsite database. After Sub-Zero eliminated all cyber-Lin Kuei, Special Forces discovered their hidden data storage site. They brought the drives to a secret S-F weapons lab, then downloaded several files into a test body. The consciousness of Sektor, Cyrax and Smoke somehow intermingled and brought the body to life. The Triborg wiped the lab clean of human occupants -- and now seeks to eliminate all organic life."
   }
 ]
