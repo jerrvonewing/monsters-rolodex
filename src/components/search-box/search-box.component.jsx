@@ -6,16 +6,12 @@ This component is responsible for displaying the
 search box, and the onChange event
  */
 
-class SearchBox extends Component {
-  render() {
-    return (
-      <input
-        className={`search-box ${this.props.className}`}
-        type="search"
-        placeholder={this.props.placeholder}
-        onChange={this.props.onChangeHandler}
-      />
-    );
-  }
-}
+const SearchBox = ({ className, onChangeHandler, placeholder }) => (
+  <input
+    className={`search-box ${className}`}
+    type="search"
+    placeholder={placeholder}
+    onChange={onChangeHandler}
+  />
+);
 export default SearchBox;
